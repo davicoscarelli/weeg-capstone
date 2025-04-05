@@ -29,18 +29,8 @@ wheels/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# Model artifacts
-*.pkl
-*.h5
-*.model
-*.joblib
-
 # Data files
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite3
+data/website_metadata_content.csv
 
 # Logs
 *.log
